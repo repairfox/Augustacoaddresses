@@ -7,4 +7,4 @@ Split this file by LOCALITY Field (county). Then further split by ZIP_5 (post co
 
 All addresses in Augusta county are split by zip and stored in # Augusta_CO_SHP_by_postcode
 
-As I extract data from these shapefiles to CSV and properly format them for import to OSM, they will be added to [CSV_ready_for_OSM](../CSV_ready_for_OSM).
+As I extract data from these shapefiles to CSV and properly format them for import to OSM, they will be added to [CSV_ready_for_OSM](/CSV_ready_for_OSM).
